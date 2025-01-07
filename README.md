@@ -6,7 +6,8 @@ Cliquez sur les liens ci-dessous pour accéder directement à la branche associ�
 
 ## Branches et Liens
 
-- [Guide complet des entrées/sorties en Java](https://github.com/Mohamed-A2001/Java-Inge/tree/Entrées/Sorties-en-Java)
+- [Guide complet des entrées/sorties en Java](https://github.com/Mohamed-A2001/Java-Inge/tree/Guide-complet-des-entrées/sorties-en-Java)
+- [Entrées/sorties en Java](https://github.com/Mohamed-A2001/Java-Inge/tree/Entrées/Sorties-en-Java)
 - [Java : Égalité d'objets et Collections](https://github.com/Mohamed-A2001/Java-Inge/tree/Java---Égalité-d'objets-et-Collections)
 - [Guide complet : Spécification et Test des Classes Java](https://github.com/Mohamed-A2001/Java-Inge/tree/Guide-Complet-Spécification-et-Test-des-Classes-Java)
 - [Les Collections Triées en Java - Guide Complet](https://github.com/Mohamed-A2001/Java-Inge/tree/Les-Collections-Triées-en-Java---Guide-Complet)
